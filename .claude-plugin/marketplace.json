@@ -1,0 +1,5 @@
+{
+  "name": "claude-charts",
+  "owner": { "name": "Jorge Romero" },
+  "plugins": [{ "name": "charts", "source": "./" }]
+}

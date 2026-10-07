@@ -1,0 +1,7 @@
+{
+  "name": "charts",
+  "version": "0.1.0",
+  "description": "Draws line and bar charts in a terminal pane from data Claude passes to its draw tool",
+  "author": { "name": "Jorge Romero" },
+  "types": "./types/index.d.ts"
+}
